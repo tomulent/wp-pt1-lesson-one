@@ -4,7 +4,7 @@ What if I told you, the Web (what you may call the internet) is just a bunch of 
 
 First we need to understand what HTML is. As I mentioned earlier, HTML is an abbreviation for Hyper Text Markup Language. It is essentially a way to “mark up” text to give it meaning that a web browser can understand. I will mention this here and multiple times throughout the next few lessons: HTML describes the structure of our content for our web page. Think “HTML = structure/content”. The browser interprets our HTML and lays out (or displays) the structure and content that we coded. HTML does not deal with HOW it is displayed in the browser (we will visit this concept later and in future lessons).
 
-HTML consists of “tags” which are single words called “elements” enclosed by “`< >`”. There are two types: “opening” (like `<h1>`) and “closing” (like `</h1>`). These tell the browser that everything in between the opening and closing tags have a special meaning. For instance, the tag <h1> means heading one. So when the browser sees
+HTML consists of “tags” which are single words called “elements” enclosed by “`< >`”. There are two types: “opening” (like `<h1>`) and “closing” (like `</h1>`). These tell the browser that everything in between the opening and closing tags have a special meaning. For instance, the tag `<h1>` means heading one. So when the browser sees
 
 ```html
 <h1>This is a Heading</h1>
